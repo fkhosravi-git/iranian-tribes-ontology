@@ -16,3 +16,12 @@ This folder contains versioned OWL files of the Iranian Tribes Ontology.
 ## 🧭 Versioning Convention
 
 Each file follows this naming pattern:
+
+Where:
+- `<version>` = semantic version (e.g., v1.0)
+- `<year>` = release year
+- `<month>` = release month
+
+## 🛠 Usage
+
+You can load any of these files in [Protégé](https://protege.stanford.edu/) or use them in any OWL-compatible semantic web environment. For metadata, licensing, and contribution guidelines, please refer to the main [`README.md`](../README.md).
