@@ -1,0 +1,19 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+<https://fkhosravi.github.io/iranian-tribes-ontology/ontology/iliran.owl>
+    a owl:Ontology ;
+    dct:title "Iranian Tribes Ontology" ;
+    dct:description "A structured ontology capturing the social, familial, and geographic hierarchy of Iranian tribes, clans, and lineages. Developed through academic collaboration and reviewed by provincial authorities. Finalized in September 2024." ;
+    dct:creator [
+        a foaf:Person ;
+        foaf:name "Fariborz Khosravi" ;
+        foaf:mbox <mailto:khosravi.fariborz@gmail.com>
+    ] ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:created "2024-02-10"^^xsd:date ;
+    dct:modified "2024-09-25"^^xsd:date ;
+    owl:versionIRI <https://fkhosravi.github.io/iranian-tribes-ontology/ontology/iliran-v1.0-2024-09.owl> ;
+    owl:versionInfo "v1.0 – September 2024" .
