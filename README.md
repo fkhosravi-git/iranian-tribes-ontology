@@ -1,3 +1,5 @@
+> 🇮🇷 برای خواندن این صفحه به زبان فارسی، [README.fa.md](./README.fa.md) را ببینید.
+
 ## 🧭 Ontology of Iranian Tribes
 
 During a series of scholarly meetings held at the **National Library and Archives of Iran**, a comprehensive list of Iranian tribes was compiled. Participants included **Dr. Torkashvand**, **Narges Ghadimi**, and **Rezagholi**, in collaboration with **Dr. Gholamreza Amirkhani**, **Ata Ahmadi**, and **Fariborz Khosravi**.
